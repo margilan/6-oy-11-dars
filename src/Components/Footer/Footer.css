@@ -1,0 +1,18 @@
+.wraper{
+    margin-top: 200px;
+    margin-left: 170px;
+}
+.one-text h1{
+    width: 539px;
+    height: 132px;
+    font-size: 50px;
+}
+.two-text h3{
+    width: 539px;
+    height: 164px;
+    top: 152px;
+    font-size: 18px;
+    opacity: 0.95;
+    color: rgb(85, 85, 247);
+    font-weight: 200;
+}
